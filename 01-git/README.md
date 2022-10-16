@@ -711,7 +711,7 @@ Deleted branch feature/load-store (was 642a448).
 
 - Ako pogledamo `main.cpp` i `README.md`, vidimo da su nam sve izmene tu. Spajanja ne moraju da budu uvek ovako laka.
 
-## Konflitki
+## Konflikti
 
 **Primer.** Posmatramo sledeću situaciju:
 
