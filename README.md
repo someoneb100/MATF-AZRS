@@ -2,7 +2,7 @@
 
 ## Snimci vežbi
 
-Na ovom [linku](https://www.youtube.com/watch?v=it4lci7lKEQ&list=PLr6PFLAj4aAHw_-TeEJ-boMKUCJi0NxAK&ab_channel=MomirAdzemovic) se mogu pronaći snimci vežbi.
+Na ovom [linku](https://www.youtube.com/watch?v=it4lci7lKEQ&list=PLr6PFLAj4aAHw_-TeEJ-boMKUCJi0NxAK&ab_channel=MomirAdzemovic) se mogu pronaći prošlogodišnji snimci vežbi asistenta Momira Adžemovića.
 
 ## Predavanja
 
